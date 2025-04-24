@@ -13,7 +13,9 @@ Postman ou Bruno (para testar)
 
 ### Crie o banco via MariaDB
 
+```
 CREATE DATABASE escola;
+```
 
 ### Atualize o arquivo src/main/resources/application.properties com
 
