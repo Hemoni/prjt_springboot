@@ -55,6 +55,8 @@ DELETE /alunos/{id} → Deleta aluno
 GET /cursos → Lista cursos
 POST /cursos → Cria curso
 
+```
 {
   "nome": "Matemática"
 }
+```
