@@ -15,7 +15,7 @@ Postman ou Bruno (para testar)
 
 CREATE DATABASE escola;
 
-### Atualize o arquivo src/main/resources/application.properties com
+### Atualize o arquivo ´´src/main/resources/application.properties´´ com
 
 spring.datasource.url=jdbc:mariadb://localhost:3306/escola
 spring.datasource.username=root
