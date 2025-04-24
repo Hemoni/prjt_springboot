@@ -28,9 +28,11 @@ spring.jpa.hibernate.ddl-auto=update
 
 ### Rode a Aplicação
 
+```
 mvn spring-boot:run
+```
 
-A API está disponível em http://localhost:8080
+A API está disponível em ```http://localhost:8080```
 
 ---
 
