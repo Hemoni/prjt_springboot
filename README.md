@@ -11,8 +11,6 @@ VS Code ou qualquer IDE Java
 
 Postman ou Bruno (para testar)
 
----
-
 ### Crie o banco via MariaDB
 
 CREATE DATABASE escola;
@@ -39,12 +37,12 @@ A API está disponível em http://localhost:8080
 GET /alunos → Lista alunos
 POST /alunos → Cria aluno
 
-...
+´´´
 {
   "nome": "João",
   "cursos": [{"id": 1}]
 }
-...
+´´´
 
 PUT /alunos/{id} → Atualiza aluno
 
